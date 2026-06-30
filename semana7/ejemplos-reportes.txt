@@ -1,0 +1,44 @@
+[
+  {
+    "reporte_id": "REP-2026-0042",
+    "fecha_creacion": "2026-06-28T09:15:00Z",
+    "estado": "Abierto",
+    "ciudadano": {
+      "nombre": "Laura Restrepo",
+      "contacto": "+573159876543"
+    },
+    "incidencia": {
+      "categoria": "Infraestructura Vial",
+      "descripcion": "Bache profundo en medio de la calzada que obliga a los autos a desviarse peligrosamente al carril contrario.",
+      "gravedad": "Alta"
+    },
+    "ubicacion": {
+      "direccion": "Avenida El Dorado #68-20",
+      "coordenadas": {
+        "latitud": 4.6584,
+        "longitud": -74.1023
+      }
+    }
+  },
+  {
+    "reporte_id": "REP-2026-0043",
+    "fecha_creacion": "2026-06-28T10:30:00Z",
+    "estado": "En proceso",
+    "ciudadano": {
+      "nombre": "Carlos Mendoza",
+      "contacto": "+573004567890"
+    },
+    "incidencia": {
+      "categoria": "Alumbrado Público",
+      "descripcion": "Poste de luz con la luminaria parpadeando continuamente desde hace una semana, dejando la esquina a oscuras por las noches.",
+      "gravedad": "Media"
+    },
+    "ubicacion": {
+      "direccion": "Carrera 15 #85-42",
+      "coordenadas": {
+        "latitud": 4.6672,
+        "longitud": -74.0561
+      }
+    }
+  }
+]
